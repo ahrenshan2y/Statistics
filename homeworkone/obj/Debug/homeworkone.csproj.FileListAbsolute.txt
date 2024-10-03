@@ -1,0 +1,10 @@
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.csproj.AssemblyReference.cache
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.Properties.Resources.resources
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.csproj.GenerateResource.cache
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.csproj.CoreCompileInputs.cache
+D:\HomeworkSts\homeworkone\bin\Debug\homeworkone.exe.config
+D:\HomeworkSts\homeworkone\bin\Debug\homeworkone.exe
+D:\HomeworkSts\homeworkone\bin\Debug\homeworkone.pdb
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.Form1.resources
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.exe
+D:\HomeworkSts\homeworkone\obj\Debug\homeworkone.pdb
